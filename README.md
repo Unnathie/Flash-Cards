@@ -4,7 +4,7 @@
 Bonjour 👋 and welcome to your new vocabulary sparring partner!  
 This app helps you sharpen your French–English skills one flashcard at a time.  
 
-You get the French word first… wait a few seconds… and voilà — the English translation appears.  
+You get the French word first… wait a few seconds… and voilà the English translation appears.  
 Know it? ✅ Mark it off and it’s gone from your deck.  
 Don’t know it? ❌ No worries, it’ll pop up again until you conquer it.  
 
